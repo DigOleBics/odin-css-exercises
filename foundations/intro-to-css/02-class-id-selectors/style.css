@@ -7,3 +7,6 @@ p {
 #cooler {
     font-size: 24px; /* Add CSS Styling */
 }
+.another {
+    background-color: #90ee90; font-size: 24px; font-weight: bold;/* Add CSS Styling */
+}
